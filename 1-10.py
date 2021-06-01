@@ -1,3 +1,4 @@
+#day one 30 days of code
 #write a program to print all prime numbers from 1-10
 
 

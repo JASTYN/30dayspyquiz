@@ -1,3 +1,4 @@
+#day one 30 days of code
 class Solution(object):
    def fizzBuzz(self, n):
       

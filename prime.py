@@ -1,3 +1,4 @@
+#day one 30 days of code
 # Python Program to find Prime Number
  
 Number = int(input(" Please Enter any Number: "))
