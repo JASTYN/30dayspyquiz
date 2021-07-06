@@ -29,6 +29,7 @@ def getAverage(numbers):
 # Getting the average
     return average
 
+
 def main():
 
     #user input
@@ -39,6 +40,8 @@ def main():
     average = getAverage(numbers)
     #display the average
     print(average)
+    
+    print(sum)
     
 if __name__ == "__main__":
     main()
